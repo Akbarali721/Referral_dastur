@@ -5,3 +5,4 @@ asyncpg
 pandas
 openpyxl
 matplotlib
+python-dotenv
